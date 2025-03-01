@@ -643,7 +643,7 @@ header .container{
     justify-content: center;
     fill: transparent; 
 }
-.input-checkbox:checked .label-checkbo-span{
+.input-checkbox:checked+ .label-checkbox-span{
     background-color: #404bbf; 
     border: none; 
     fill: #F4F4FD; 
